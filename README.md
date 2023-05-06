@@ -122,3 +122,42 @@ TouriproEinw: Touristen in Relation zur Einwohnerzahl
 Festnetzanschluesse: Summe an aktiven festen Telefonleitungen, VoIP-Abonnements, WLL-Abonnements, ISDN-Sprachkanaläquivalenten und öffentlichen Münztelefonen eines Landes
 
 Mobilfunkvertraege: Anzahl im jeweiligen Jahr aktiver Prepaid-Konten und Postpaid-Abonnements eines Landes
+
+
+
+Verwendete Quellen:
+4lyrics - The Home Of Eurovision Lyrics, diverse Seiten. URL: https://4lyrics.eu/, [abgerufen August 2019 bis April 2020]. 
+Adam, W.: wiwibloggs (2014). Eurovision odds: Sweden the favourite, Austria and the Netherlands narrowing. URL: https://wiwibloggs.com/2014/05/09/eurovision-odds-austria-netherlands-narrow-sweden/49961/ [abgerufen 22. Juli 2020, 21.49 Uhr].
+Entfernungsrechner. URL: https://www.luftlinie.org/ [abgerufen 17. September 2020, 16.00 Uhr].
+esckaz (2019). Eurovision 2019 - Carousel. URL: https://esckaz.com/2019/lat.htm [abgerufen 8. August 2020, 09.08 Uhr].
+ESC kompakt, diverse Seiten. URL: https://esc-kompakt.de/ [abgerufen November 2019 bis März 2021]. 
+ESC XTRA (2019). Analysing the patterns among 13 years of Eurovision semi-final draw allocation pots. URL: https://escxtra.com/2020/01/25/analysing-13-eurovision-semi-final-draw-pots/ [abgerufen 25. Januar 2020, 15.01 Uhr].
+Eurofire.me, diverse Seiten. URL: https://www.eurofire.me/ [abgerufen November 2019 bis März 2021].
+Eurovision Song Contest National Finals Homepage, diverse Seiten. URL: http://natfinals.50webs.com/ [abgerufen Januar 2021].
+Eurovision.de, diverse Seiten. URL: https://www.eurovision.de/ [abgerufen November 2019 bis März 2021].
+Eurovision.tv. Events. URL: https://eurovision.tv/events [abgerufen 15. März 2020, 16.24 Uhr].
+Eurovisionworld.com, diverse Seiten. URL: https://eurovisionworld.com/odds/eurovision [abgerufen Juli 2021].
+Famous Birthdays, diverse Seiten. URL: https://www.famousbirthdays.com/ [abgerufen August 2020]. 
+Genius, diverse Seiten. URL: https://genius.com/ [abgerufen August 2019 bis April 2020].
+Google. URL: https://translate.google.de/ [abgerufen 17. Juni 2020, 19.45 Uhr]. 
+Hatari Translations. URL: https://hatari-translations.tumblr.com/post/187077969132/do-you-happen-to-know-when-einars-birthday-is-i [abgerufen 5. August 2020, 14.17 Uhr].
+Info Channel (2015). Interview mit The Makemakes. URL: https://info-channel.raiffeisen-ooe.at/jugend/the-makemakes\_182 [abgerufen 7. August 2020, 17.46 Uhr].
+Lamb, C.: wiwibloggs (2014). First semi-final odds: Armenia still the favourite, Sweden closer. URL: https://wiwibloggs.com/2014/04/21/first-semi-final-odds-armenia-sweden/47298/ [abgerufen 22. Juli 2020, 21.07 Uhr].
+Lamb, C.: wiwibloggs (2014). Second semi-final odds: Norway the favourite, Romania a close second. URL: https://wiwibloggs.com/2014/04/23/second-semi-final-odds-favourite/47514/ [abgerufen 22. Juli 2020, 21.26 Uhr].
+Minus One. URL: https://minusoneband.com/about/ [abgerufen am 8. August 2020, 19.11 Uhr].
+Nicer Odds (2014). Eurovision Betting Odds. URL: https://www.nicerodds.co.uk/ [abgerufen 31. März 2014, 09.48 Uhr].
+Peter: ESC kompakt (2019). Neue Verwirrung um die Jury-Punkte aus Weißrussland. URL: https://esc-kompakt.de/neue-verwirrung-um-die-jury-punkte-aus-weissrussland/ [abgerufen 24. September 2021, 23.33 Uhr].
+songtexte.com, diverse Seiten. URL: https://www.songtexte.com/ [abgerufen August 2019 bis April 2020].
+The World Bank, diverse Seiten. URL: https://data.worldbank.org/ [abgerufen am 13. September 2021].
+Universal Music (2014). Eurovision Song Contest, Copenhagen 2014.
+Universal Music (2015). Eurovision Song Contest, Vienna 2015.
+Universal Music (2016). Eurovision Song Contest, Stockholm 2016.
+Universal Music (2017). Eurovision Song Contest, Kyiv 2017.
+Universal Music (2018). Eurovision Song Contest, Lisbon 2018.
+Universal Music (2019). Eurovision Song Contest, Tel Aviv 2019.
+We Transfer ESC. URL: https://eurovision.wetransfer.com/downloads/a1da4b5eb0395e58b71016dce076564a20170409152448/6754ae [abgerufen 16. August 2020, 17.03 Uhr].
+Wikipedia, diverse Seiten. URL: https://de.wikipedia.org [abgerufen August 2019 bis November 2021].
+Wikipedia. ISO-3166-1-Kodierliste. URL: https://de.wikipedia.org/wiki/ISO-3166-1-Kodierliste [abgerufen 27. April 2021, 10.54 Uhr].
+Wikipedia. Liste der Amtssprachen. URL: https://de.wikipedia.org/wiki/Liste\_der\_Amtssprachen [abgerufen 16. Oktober 2019, 17.33 Uhr].
+wiwibloggs, diverse Seiten. URL: https://wiwibloggs.com/ [abgerufen August 2019 bis Oktober 2020].
+
