@@ -125,6 +125,12 @@ Mobilfunkvertraege: Anzahl im jeweiligen Jahr aktiver Prepaid-Konten und Postpai
 
 
 
+
+
+
+
+
+
 Verwendete Quellen:
 
 4lyrics - The Home Of Eurovision Lyrics, diverse Seiten. URL: https://4lyrics.eu/, [abgerufen August 2019 bis April 2020]. 
